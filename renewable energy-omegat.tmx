@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="PL"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="PL">
+        <seg>Jedną z najważniejszych kwestii znajdujących się w centrum uwagi współczesnego świata jest konieczność dalszego zwiększenia produkcji energii z uwzględnieniem wpływu nowych mocy i rozwiązań na ekosystem. Uczestnicy rynku energetycznego realizują projekty, które można podzielić na dwie podstawowe kategorie:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Ola" changedate="20201122T093316Z" creationid="Ola" creationdate="20201122T093316Z">
+        <seg>One of the most central issues of the modern world is the need to increase energy production, while taking into consideration the impacts that new capacities and solutions have on the ecosystem. Projects undertaken by power market participants can be divided into two key categories:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PL">
+        <seg>Modyfikacja konwencjonalnych metod pozyskiwania energii. &lt;t0/&gt;W Polsce, gdzie sektor energetyczny opiera się przede wszystkim na spalaniu węgla, rozwijana jest gałąź czystych technologii węglowych. Jednym z liderów wykorzystania tego typu rozwiązań w skali kraju jest PGE Polska Grupa Energetyczna S.A.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Ola" changedate="20201122T093337Z" creationid="Ola" creationdate="20201122T093337Z">
+        <seg>Modification of conventional energy generation methods. In Poland, where the power sector still heavily relies on burning coal, clean coal technologies are being developed.PGE Polska Grupa Energetyczna S.A. is one of the domestic leaders when it comes to the application of such solutions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PL">
+        <seg>Szczególny nacisk na rozwój energetyki odnawialnej kładą państwa członkowskie Unii Europejskiej. Wspólnie postanowiły do 2020 r. zwiększyć udział energii z OZE do poziomu 20% całkowitego zużycia energii w UE. Zielona Energia znajduje także wsparcie w prawodawstwie krajowym - zgodnie z Polityką Energetyczną Polski do 2030 r. udział &lt;t0/&gt;źródeł odnawialnych w finalnym zużyciu energii w 2020 r. ma wzrosnąć co najmniej do poziomu 15%.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Ola" changedate="20201122T093418Z" creationid="Ola" creationdate="20201122T093418Z">
+        <seg>Especially, the European Union member states put strong emphasis on development of the renewable energy market. Together, they decided to increase the share of energy generated from RES by 2020 to 20% of EU‘s total energy consumption. Polish law also supports green energy. According to Poland‘s Energy Policy until 2030, at least 15% of final energy consumption in 2020 is to come from renewable sources.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PL">
+        <seg>Trwającemu od XVIII wieku rozwojowi przemysłu, którego głównym motorem jest dążenie do podnoszenia jakości życia ludzi, towarzyszy gwałtowny wzrost zapotrzebowania na energię. Do drugiej połowy XX wieku tylko nieliczni zastanawiali się nad długofalowymi konsekwencjami wzrostu konsumpcji w skali globalnej – zanieczyszczeniem atmosfery, gleby i wody, a także stopniowym wyczerpywaniem się zasobów naturalnych. Dopiero zderzenie z problemami, takimi jak: zmiany klimatyczne, ograniczenie dostępności zasobów wody pitnej oraz pojawienie się nowych kategorii chorób cywilizacyjnych, skłoniło społeczność międzynarodową do poszukiwań alternatywnych dróg rozwoju.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Ola" changedate="20201122T093308Z" creationid="Ola" creationdate="20201122T093308Z">
+        <seg>Since the 18th century, industrial progress, fuelled by the desire to improve the quality of human lives, has been accompanied by strong growth in demand for energy. Until the second half of the 20th century, few stopped to consider the long-term consequences of a global increase in consumption, such as air, soil and water pollution, as well as gradual depletion of natural resources. It was not until the world faced problems such as climate change, limited availability of drinking water or the emergence of new types of lifestyle diseases, that it started to seek alternative development paths. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PL">
+        <seg>W ustawie Prawo energetyczne Odnawialne Źródła Energii zdefiniowano jako &lt;t0/&gt;„źródła wykorzystujące w procesie przetwarzania energię wiatru, promieniowania słonecznego, geotermalną, fal, prądów i pływów morskich, spadku rzek oraz energię pozyskiwaną z biomasy, biogazu wysypiskowego, a także z biogazu powstałego w procesach odprowadzania lub oczyszczania ścieków albo rozkładu składowanych szczątków roślinnych i zwierzęcych”&lt;t1/&gt;. Tak więc Odnawialne Źródła Energii to takie, których używanie nie wiąże się z długotrwałym ich deficytem - zasób odnawia się w krótkim czasie.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Ola" changedate="20201122T093409Z" creationid="Ola" creationdate="20201122T093409Z">
+        <seg>The Polish Energy Law defines renewable energy sources as "Sources which convert wind power, sunlight, geothermal energy, as well as energy of waves, sea currents and tides, river gradients, biomass, landfill biogas and biogas generated during sewage collection or treatment, or disintegration of stored plant or animal remains, into useful forms of energy." Thus, the use of renewable energy sources will not cause their long-term depletion, as they are quickly replenished.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PL">
+        <seg>Wprowadzony w 2005 r. system wsparcia OZE promuje wytwarzanie ekologicznej energii elektrycznej poprzez wydawanie tak zwanych Świadectw Pochodzenia. Zgodnie z Prawem energetycznym przedsiębiorstwa energetyczne sprzedające energię odbiorcom końcowym mają obowiązek uzyskania odpowiedniej liczby Świadectw Pochodzenia i przedstawienia ich do umorzenia Prezesowi Urzędu Regulacji Energetyki bądź uiszczenia opłaty zastępczej.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Ola" changedate="20201122T093447Z" creationid="Ola" creationdate="20201122T093425Z">
+        <seg>The RES support system introduced in 2005 promotes generation of eco-friendly electricity by means of certificates of origin. Under the Polish Energy Law, power utilities selling electricity to end consumers are required to obtain the appropriate number of certificates of origin, and submit them for redemption to the President of the Polish Energy Regulatory Office, or else pay a substitute fee.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PL">
+        <seg>Wykorzystanie Odnawialnych Źródeł Energii&lt;t0/&gt;, czyli technologii, które z natury są mniej niebezpieczne dla środowiska naturalnego. Rynek OZE jest główną przestrzenią, w której rozwija się &lt;t1/&gt;PGE Energia Odnawialna S.A.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Ola" changedate="20201122T093354Z" creationid="Ola" creationdate="20201122T093354Z">
+        <seg>Use of renewable energy sources: technologies that by their very nature pose a lesser threat to the environment. The RES market is the main development area for PGE Energia Odnawialna S.A.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PL">
+        <seg>Zielona energia i Odnawialne Źródła Energii (OZE)</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Ola" changedate="20201122T093247Z" creationid="Ola" creationdate="20201122T093247Z">
+        <seg>Green energy and renewable energy sources (RES)</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
